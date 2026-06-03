@@ -57,7 +57,4 @@ This project focuses on analyzing customer retention and churn behavior for a su
 - Business Insights & Recommendations  
 - Customer Retention Strategy Suggestions  
 
-# Dashboard Preview
-(Add your dashboard image here)
 
-![Dashboard](Task02Dashboard.png)
